@@ -1,4 +1,4 @@
-# Prodigy_WD_04
+# PRODIGY_WD_04
 
 In this Project I have learnt how to design a Personal Portfolio Website which showcase my skills, Project, services and it contain an About Section. I have learnt to design an attractive and visual appealing Layout that captures visitor's attention.
 
